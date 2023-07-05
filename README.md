@@ -18,4 +18,6 @@ Install the required Python libraries using pip:
 
 `pip install datetime json requests matplotlib pandas Flask`
 
-note that in this project I am working on the data of a city (Nantes), of course we can change the city (the python code provided in the beginning to enter the name of the station)
+note that in this project I am working on the data of a city (Nantes), of course we can change the city (the python code provided in the beginning to enter the name of the station).
+also note that you must change the path where the data folder will be created (add the appropriate path for your computer).
+
